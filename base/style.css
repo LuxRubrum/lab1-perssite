@@ -32,6 +32,29 @@ table.block_right{
     font: 20px Tahoma;
     background-color: aliceblue;
 }
+table.block_center{
+    margin-top: 30px;
+    width: 100%;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    border-bottom-style: none;
+    text-align: center;
+    color: saddlebrown;
+    font: 20px Tahoma;
+    background-color: bisque;
+}
+table.block_content{
+    width: 98%;
+    border: darkgoldenrod 3px solid;
+    margin: 20px;
+    border-collapse: collapse;
+}
+th.content, td.content{
+    text-align: left;
+    border: darkgoldenrod 1px dashed;
+    padding: 10px;
+}
 table.fast_navi{
     margin-top: 30px;
     width: 100%;
