@@ -83,3 +83,6 @@ h3.h_navi{
 ol.ul_navi{
     margin-left: 30px;
 }
+li.requires_margin{
+    margin: 20px;
+}
